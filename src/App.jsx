@@ -4,6 +4,7 @@ import Combo from "./components/Combo";
 import FreeLibery from "./components/FreeLibery";
 import MyCourse from "./components/MyCourse";
 import Body from "./components/Body";
+import Error from "./components/ErrorPage";
 function App() {
   const appRouter = createBrowserRouter([
     {
@@ -27,6 +28,7 @@ function App() {
           element: <MyCourse />,
         },
       ],
+      errorElement: <Error />,
     },
   ]);
   return (
