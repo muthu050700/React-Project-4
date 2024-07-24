@@ -1,0 +1,117 @@
+const courseLibraryData = [
+  {
+    name: "C Programming",
+    image: "https://static.guvi.in/course-thumbnail/webps/c-programming.webp",
+    hours: "4hrs",
+    lang: "English",
+  },
+  {
+    name: "Javascript Zero to Hero",
+    image: "https://static.guvi.in/course-thumbnail/webps/javascript.webp",
+    hours: "17hrs",
+    lang: "English",
+  },
+  {
+    name: "Step into Robotic Process Automation v2.0",
+    image: "https://static.guvi.in/course-thumbnail/webps/ui-path.webp",
+    hours: "3hrs",
+    lang: "English",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "English",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "Tamil",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "Hindi",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "Tamil",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "Odiya",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "Arabic",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "Telugu",
+  },
+  {
+    name: "Python Course",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "6hrs",
+    lang: "Marati",
+  },
+  {
+    name: "Python -IITM Pravartak Certified",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "3hrs",
+    lang: "Tamil",
+  },
+  {
+    name: "Python -IITM Pravartak Certified",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "3hrs",
+    lang: "English",
+  },
+  {
+    name: "Python -IITM Pravartak Certified",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "3hrs",
+    lang: "Marati",
+  },
+  {
+    name: "Python -IITM Pravartak Certified",
+    image: "https://static.guvi.in/course-thumbnail/webps/python.webp",
+    hours: "3hrs",
+    lang: "Telugu",
+  },
+  {
+    name: "RPA Design & Development V2.O",
+    image: "https://static.guvi.in/course-thumbnail/webps/ui-path.webp",
+    hours: "3hrs",
+    lang: "Tamil",
+  },
+  {
+    name: "RPA Design & Development V2.O",
+    image: "https://static.guvi.in/course-thumbnail/webps/ui-path.webp",
+    hours: "3hrs",
+    lang: "English",
+  },
+  {
+    name: "RPA Design & Development V2.O",
+    image: "https://static.guvi.in/course-thumbnail/webps/ui-path.webp",
+    hours: "3hrs",
+    lang: "Telugu",
+  },
+  {
+    name: "RPA Design & Development V2.O",
+    image: "https://static.guvi.in/course-thumbnail/webps/ui-path.webp",
+    hours: "3hrs",
+    lang: "Marati",
+  },
+];
+export default courseLibraryData;
